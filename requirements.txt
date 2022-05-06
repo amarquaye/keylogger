@@ -1,0 +1,17 @@
+In order for the code to execute successfully, you need to install a few python packages.
+
+getpass and smtplib come preinstalled with python so you only  have to install pynput.
+Copy and paste this command in your terminal to install pynput.
+
+pip install pynput
+
+Or you can visit https://pypi.org/project/pynput/ to copy the instruction.
+It's your choice.
+
+Google flags the sending of mails through codes like this so you will also have to turn on less secure apps in your google account.
+You can use the link below:
+
+https://www.google.com/settings/security/lesssecureapps
+
+
+Have fun :)
